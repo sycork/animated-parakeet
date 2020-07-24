@@ -19,10 +19,10 @@ tags:
 
 > 프리드리히 바우어, 1968년 10월, 기계에서 효율적으로 작동되는 신뢰성 있는 소프트웨어를 경제적으로 획득하기 위해 적절한 공학적 원리를 수립하여 활용하는 것이다.
 >
-> "[^Establishment] and use of sound engineering [^principles] to economically obtain software that is reliable and works on real machines efficienty"
+> "Establishment[^Establishment] and use of sound engineering principles[^principles] to economically obtain software that is reliable and works on real machines efficienty"
 >
-> [^Establishment]: 1. 기관, 시설 2. (사회) 기득권층, 지배층 3. 설립, 수립, 확립
-> [^principles]: 1. (개인의 도덕·신념과 관련된) 원칙, 2. (법·규정·이론 등의 기본이 되는) 원칙, 3. 주의, 신조
+> [^Establishment]: Establishment : 1. 기관, 시설 2. (사회) 기득권층, 지배층 3. 설립, 수립, 확립
+> [^principles]: principles : 1. (개인의 도덕·신념과 관련된) 원칙, 2. (법·규정·이론 등의 기본이 되는) 원칙, 3. 주의, 신조
 
 
 
